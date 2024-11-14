@@ -1,0 +1,13 @@
+{
+    "img": "syringe.png",
+    "name": "MLG 360 NOSCOPE",
+    "description": "Round winning kill!",
+    "cooldown": 2,
+    "damage": {
+        "meth": 0,
+        "mint": -5,
+        "nostalgia": 35,
+        "doomer": 0,
+        "phonk": 15
+    }
+}

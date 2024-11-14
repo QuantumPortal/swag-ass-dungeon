@@ -1,0 +1,37 @@
+{
+    "img": "waltuh.jpg",
+    "name": "Walter Hartwell White",
+    "baseHP": 200,
+    "attacks": {
+        "common1": "fly_swat",
+        "common2": "meth_blast",
+        "buff1": "meth_up",
+        "debuff1": "ricin",
+        "ultimate": "fulminated_mercury"
+    },
+    "resistances": {
+        "meth": 99,
+        "mint": -20,
+        "nostalgia": 30,
+        "doomer": 30,
+        "phonk": 0
+    },
+    "description": "IS THAT WALTER FLIPPING WHITE?????? HOLY HELL",
+    "voicelines": {
+        "default":{
+            "default1": "I am the one who knocks.",
+            "default2": "Stay out of my territory.",
+            "default3": "I'm not in the meth business. I'm in the empire business.",
+            "default4": "Say my name.",
+            "default5": "How are you feeling? Kind of under the weather? Like you've got the flu? That would be the ricin I gave you."
+        },
+        "hurt":{
+            "hurt1": "<i>Loud coughing</i>",
+            "hurt2": "What the hell is wrong with you?! We're a family! We're a family...",
+            "hurt3": "It's Always Been One Step Forward And Two Steps Back."
+        },
+        "defeat":{
+            "defeat1": "I did it for me. I liked it. I was good at it. And, I was really... I was alive."
+        }
+    }
+}

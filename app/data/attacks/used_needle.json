@@ -1,0 +1,13 @@
+{
+    "img": "syringe.png",
+    "name": "Used Syringe.",
+    "description": "Upcycled and non GMO, what a deal!",
+    "cooldown": 2,
+    "damage": {
+        "meth": 25,
+        "mint": 0,
+        "nostalgia": 0,
+        "doomer": 10,
+        "phonk": 0
+    }
+}

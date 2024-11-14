@@ -1,0 +1,13 @@
+{
+    "img": "syringe.png",
+    "name": "Capsule-style mints.",
+    "description": "Minty goodness; NOT to be confused with hit chinese spyware Tik-Tok.",
+    "cooldown": 3,
+    "damage": {
+        "meth": 0,
+        "mint": 35,
+        "nostalgia": 10,
+        "doomer": 0,
+        "phonk": 0
+    }
+}

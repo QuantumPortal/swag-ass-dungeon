@@ -1,0 +1,13 @@
+{
+    "img": "syringe.png",
+    "name": "IRS Papers",
+    "description": "I HATE THE IRS I HATE THE IRS I HATE THE IRS I HATE THE IRS I HATE THE IRS I HATE THE IRS",
+    "cooldown": 4,
+    "damage": {
+        "meth": 0,
+        "mint": 0,
+        "nostalgia": 0,
+        "doomer": 100,
+        "phonk": 0
+    }
+}

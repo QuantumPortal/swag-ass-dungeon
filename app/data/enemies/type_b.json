@@ -1,0 +1,20 @@
+{
+    "img": "doomer.jpg",
+    "name": "Doomer",
+    "baseHP": 220,
+    "attacks": {
+        "common1": "fly_swat",
+        "common2": "meth_blast",
+        "buff1": "meth_up",
+        "debuff1": "ricin",
+        "ultimate": "fulminated_mercury"
+    },
+    "resistances": {
+        "meth": 10,
+        "mint": 0,
+        "nostalgia": -30,
+        "doomer": 70,
+        "phonk": -20
+    },
+    "description": "Sadge"
+}

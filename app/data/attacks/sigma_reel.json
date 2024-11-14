@@ -1,0 +1,13 @@
+{
+    "img": "syringe.png",
+    "name": "Sigma reel #324",
+    "description": "May Gigachad compell you.",
+    "cooldown": 3,
+    "damage": {
+        "meth": 0,
+        "mint": 0,
+        "nostalgia": 0,
+        "doomer": -10,
+        "phonk": 50
+    }
+}

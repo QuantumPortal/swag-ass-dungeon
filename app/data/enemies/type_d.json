@@ -1,0 +1,20 @@
+{
+    "img": "sponge.webp",
+    "name": "Walter Hartwell White",
+    "baseHP": 240,
+    "attacks": {
+        "common1": "fly_swat",
+        "common2": "meth_blast",
+        "buff1": "meth_up",
+        "debuff1": "ricin",
+        "ultimate": "fulminated_mercury"
+    },
+    "resistances": {
+        "meth": -20,
+        "mint": 50,
+        "nostalgia": -50,
+        "doomer": 30,
+        "phonk": 0
+    },
+    "description": "IS THAT WALTER FLIPPING WHITE?????? HOLY HELL"
+}
